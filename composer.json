@@ -1,0 +1,13 @@
+{
+    "name": "youbou/gofexample",
+    "type": "project",
+    "description": "DesignPattern Example",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": "src/"
+        }
+    }
+}
